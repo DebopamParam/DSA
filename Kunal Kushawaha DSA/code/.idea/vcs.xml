@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Arraylists" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/First" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Functions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Searching" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Strings" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sorting" vcs="Git" />
+  </component>
+</project>

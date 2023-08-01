@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="55df1fd1-8314-4981-a725-9709d88c3e1f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Searching.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/param/Binary_Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/param/Ceiling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/param/F_n_L.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/param/Infinite_Sorted_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/param/Linear_Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/param/OrderAgnostic_BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/param/RBS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/param/Search_in_2D_Sorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/param/Search_in_Mountain_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/param/Search_in_Rotated_Sorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/param/Search_in_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/param/search_in_2D.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PmPEWiNTwuY7ekkrbTrHIkqvQG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "C:/Users/debop/Desktop/VS code/Kunal Kushawaha DSA/code/Searching"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55df1fd1-8314-4981-a725-9709d88c3e1f" name="Changes" comment="" />
+      <created>1684059175336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684059175336</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/param/Search_in_2D_Sorted.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

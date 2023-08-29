@@ -128,48 +128,14 @@ int main()
     //     cout<<endl;
     // }
 
-    // int n=4;
-    // for (int i = 0; i < n; i++)
-    // {
-    //     for (int j = 0; j < n; j++)
-    //     {
-    //         if (j>=i)
-    //         {
-    //             cout<<i+1<<" ";
-    //         }
-    //         else
-    //         {
-    //             cout<<"  ";
-    //         }
-    //     }
-    //     cout<<endl;
-    // }
-
-    // int n=4;
-    // for (int i = 0; i < n; i++)
-    // {
-    //     for (int j = 0; j < n; j++)
-    //     {
-    //         if ((i+j+2)>n)
-    //         {
-    //             cout<<i+1<<" ";
-    //         }
-    //         else
-    //         {
-    //             cout<<"  ";
-    //         }
-    //     }
-    //     cout<<endl;
-    // }
-
-    int n = 4, a = 1;
+    int n = 4;
     for (int i = 0; i < n; i++)
     {
         for (int j = 0; j < n; j++)
         {
-            if ((i + j + 2) > n)
+            if (j >= i)
             {
-                cout << a++ << " ";
+                cout << i + 1 << " ";
             }
             else
             {
@@ -178,6 +144,40 @@ int main()
         }
         cout << endl;
     }
+
+    // int n = 4;
+    // for (int i = 0; i < n; i++)
+    // {
+    //     for (int j = 0; j < n; j++)
+    //     {
+    //         if ((i + j + 2) > n)
+    //         {
+    //             cout << i + 1 << " ";
+    //         }
+    //         else
+    //         {
+    //             cout << "  ";
+    //         }
+    //     }
+    //     cout << endl;
+    // }
+
+    // int n = 4, a = 1;
+    // for (int i = 0; i < n; i++)
+    // {
+    //     for (int j = 0; j < n; j++)
+    //     {
+    //         if ((i + j + 2) > n)
+    //         {
+    //             cout << a++ << " ";
+    //         }
+    //         else
+    //         {
+    //             cout << "  ";
+    //         }
+    //     }
+    //     cout << endl;
+    // }
 
     return 0;
 }

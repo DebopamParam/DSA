@@ -5,28 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e6b59bf-4f76-44bd-9f2d-323a8511772a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arraylists.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/param/A_DEMO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/param/ArrayL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/param/Array_2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/param/Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/param/Check_Sorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/param/Diagonal_sum_matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/param/FindUnique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/param/Pairs_in_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/param/Search_in_2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/param/Spiral_Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/param/String_immutability.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/param/Sub_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/param/Swap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/param/Trapping_Rainwater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/param/Two_D_ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Recursion/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Recursion/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -57,7 +39,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/debop/Desktop/VS code/Kunal Kushawaha DSA/code/Searching"
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "C:/Users/debop/Desktop/VS code/Dart/dart_new_start",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -70,6 +54,11 @@
       <updated>1680326769822</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

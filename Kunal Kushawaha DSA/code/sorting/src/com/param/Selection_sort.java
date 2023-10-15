@@ -50,9 +50,6 @@ public class Selection_sort {
                 arr[max] = temp;
             }
         }
-
-        
-
         return arr;
     }
 }

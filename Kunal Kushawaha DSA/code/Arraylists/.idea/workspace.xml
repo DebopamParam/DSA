@@ -5,10 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e6b59bf-4f76-44bd-9f2d-323a8511772a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Dart/dart_new_start/bin/null_safe.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MATH_for_DSA/src/Seive_of_Eratothenes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/src/array_questions/Check_Sorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/src/array_questions/First_and_Last_Occurence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/src/array_questions/Linear_Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/src/array_questions/No_of_Occurence_index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/src/array_questions/Rotated_BS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/src/easy_questions/Count_Zeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/src/easy_questions/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/src/easy_questions/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/src/easy_questions/Sum_of_Digits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/src/easy_questions/factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/src/easy_questions/print_1toN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/src/patterns/triangle1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/src/patterns/using_recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/src/practice/Amichotajaan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/src/sorting/Bubble_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/src/sorting/Merge_inPlace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/src/sorting/Merge_sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/src/sorting/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/src/sorting/Selection_sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/src/string/Remove_a_character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sorting/src/practice/Quicl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/VideoDemos/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dart/.idea/libraries/Dart_Packages.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dart/dart_new_start/.idea/dart_new_start.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Dart/dart_new_start/.idea/dart_new_start.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dart/dart_new_start/Packages/calculator/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Dart/dart_new_start/Packages/calculator/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dart/dart_new_start/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Dart/dart_new_start/pubspec.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Recursion/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Recursion/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/param/Sub_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/param/Sub_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../First/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../First/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Recursion/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Recursion/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Searching/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Searching/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting/src/com/param/Selection_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting/src/com/param/Selection_sort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +74,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "C:/Users/debop/Desktop/VS code/Dart/dart_new_start",
+    "last_opened_file_path": "C:/Users/debop/Desktop/VS code/Kunal Kushawaha DSA/code/Arraylists",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>

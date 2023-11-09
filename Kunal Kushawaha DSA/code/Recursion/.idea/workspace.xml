@@ -5,45 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1388175-14d2-4c3e-904c-ddd3498cf000" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../Dart/dart_new_start/bin/null_safe.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MATH_for_DSA/src/Seive_of_Eratothenes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sub_Sets/GenerateSubsequences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array_questions/Check_Sorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array_questions/First_and_Last_Occurence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array_questions/Linear_Search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array_questions/No_of_Occurence_index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array_questions/Rotated_BS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy_questions/Count_Zeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy_questions/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy_questions/Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy_questions/Sum_of_Digits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy_questions/factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy_questions/print_1toN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/triangle1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/using_recursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/Amichotajaan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/Bubble_Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/Merge_inPlace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/Merge_sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/Selection_sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/Remove_a_character.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sorting/src/practice/Quicl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Python/VideoDemos/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Dart/.idea/libraries/Dart_Packages.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Dart/dart_new_start/.idea/dart_new_start.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Dart/dart_new_start/.idea/dart_new_start.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Dart/dart_new_start/Packages/calculator/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Dart/dart_new_start/Packages/calculator/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Dart/dart_new_start/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Dart/dart_new_start/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arraylists/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Arraylists/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arraylists/src/com/param/Sub_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Arraylists/src/com/param/Sub_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../First/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../First/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../First/src/com/demo/GetIP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/Dice_Throw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/LetterCombinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/Maze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/Maze_Obstacles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Permutations/Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sub_Sets/Ascii.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sub_Sets/SubSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sub_Sets/Using_Iteration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/Skip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/.idea/libraries/Dart_SDK.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/Demo.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../First/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../First/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Searching/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Searching/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Searching/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Searching/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting/src/com/param/Selection_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting/src/com/param/Selection_sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Amichotajaan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Love Babbar DSA/Debopam MODA Assignment.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Love Babbar DSA/Tenacity Invitation Letter.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/VideoDemos/add.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,12 +59,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/debop/Desktop/VS code/Kunal Kushawaha DSA/code/Arraylists&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/debop/Desktop/VS code/Kunal Kushawaha DSA/code/Recursion&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Sub_Sets" />
       <recent name="easy_questions" />
     </key>
   </component>
@@ -127,6 +111,11 @@
           <url>file://$PROJECT_DIR$/src/patterns/using_recursion.java</url>
           <line>41</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BackTracking/LetterCombinations.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

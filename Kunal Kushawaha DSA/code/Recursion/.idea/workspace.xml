@@ -4,29 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1388175-14d2-4c3e-904c-ddd3498cf000" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../First/src/com/demo/GetIP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BackTracking/Dice_Throw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BackTracking/LetterCombinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BackTracking/Maze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BackTracking/Maze_Obstacles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Permutations/Permutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sub_Sets/Ascii.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sub_Sets/SubSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sub_Sets/Using_Iteration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/Skip.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Demo/.idea/libraries/Dart_SDK.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Demo/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Demo/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Demo/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Demo/Demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../First/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../First/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d1388175-14d2-4c3e-904c-ddd3498cf000" name="Changes" comment="9/11/2023">
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/Leetcode_410.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/N_Knights.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/N_Queens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/N_Queens_Better.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops/oops.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops/src/Leacture1/Lecture1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops/src/Lecture2/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops/src/Lecture2/OuterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops/src/Lecture2/Population.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops/src/Lecture2/SingletonClass/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops/src/Lecture2/SingletonClass/SingleTon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops/src/Lecture2/StaticBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops/src/Lecture3/Super/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops/src/Lecture3/Super/GrandChild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops/src/Lecture3/Super/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops/src/Lecture3/Super/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops/src/Lecture3/static_in_Inheritance/Static_var_in_Inhertance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops/src/Leetcode_410.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Amichotajaan.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Love Babbar DSA/Debopam MODA Assignment.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Love Babbar DSA/Tenacity Invitation Letter.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Python/VideoDemos/add.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BackTracking/Maze_Obstacles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BackTracking/Maze_Obstacles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Searching/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/src/com/param/F_n_L.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Searching/src/com/param/F_n_L.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +70,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="BackTracking" />
       <recent name="Sub_Sets" />
       <recent name="easy_questions" />
     </key>
@@ -78,12 +84,36 @@
       <option name="presentableId" value="Default" />
       <updated>1689645063228</updated>
     </task>
+    <task id="LOCAL-00001" summary="9/11/2023">
+      <created>1699509532157</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699509532157</updated>
+    </task>
+    <task id="LOCAL-00002" summary="9/11/2023">
+      <created>1699509550099</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699509550099</updated>
+    </task>
+    <task id="LOCAL-00003" summary="9/11/2023">
+      <created>1699509582346</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699509582346</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="9/11/2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="9/11/2023" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -116,6 +146,11 @@
           <url>file://$PROJECT_DIR$/src/BackTracking/LetterCombinations.java</url>
           <line>5</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BackTracking/N_Knights.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

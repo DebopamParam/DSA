@@ -4,8 +4,10 @@ public class Maze_Obstacles {
     public static void main(String[] args) {
 //        path("src", 0, 0, new int[]{1, 1});
 
-        boolean[][] maze = {{true, true, true}, {true, true, true}, {true, true, true}};
-        all_path("", 0, 0, maze);
+        boolean[][] maze = {{true, true, true, true}, {true, true, true, true}, {true, true, true, true}, {true, true, true, true}};
+        int[][] ans = new int[maze.length][maze[0].length];
+//        all_path("", 0, 0, maze);
+        print_path_matrix(0, 0, 1, maze, ans);
     }
 
     static void path(String path, int row, int col, int[] obstacle) {
@@ -62,4 +64,55 @@ public class Maze_Obstacles {
            visited the cell) */
         maze[row][col] = true;
     }
+
+    static void print_path_matrix(int row, int col, int count, boolean[][] maze, int[][] ans) {
+        if (row == maze.length - 1 && col == maze[0].length - 1) {
+            ans[row][col] = count;
+            print_matrix(ans);
+            ans[row][col] = 0;
+            return;
+        }
+        if (!maze[row][col]) {
+            return;
+        }
+        // You have entered the Cell for the first time in that path
+        // Make it false
+        maze[row][col] = false;
+        ans[row][col] = count;
+
+        // up
+        if (row > 0) {
+            print_path_matrix(row - 1, col, count + 1, maze, ans);
+        }
+        //left
+        if (col > 0) {
+            print_path_matrix(row, col - 1, count + 1, maze, ans);
+        }
+        //Down
+        if (row < maze.length - 1) {
+            print_path_matrix(row + 1, col, count + 1, maze, ans);
+        }
+        //Right
+        if (col < maze[0].length - 1) {
+            print_path_matrix(row, col + 1, count + 1, maze, ans);
+        }
+
+        // We have checked all possible path that we can take
+        // Now we are returning to the Calling function
+        // Thus we need to clear the path
+        maze[row][col] = true;
+        ans[row][col] = 0;
+    }
+
+    static void print_matrix(int[][] arr) {
+        for (int i = 0; i < arr.length; i++) {
+            for (int j = 0; j < arr[i].length; j++) {
+                System.out.print(arr[i][j] + " ");
+            }
+            System.out.println();
+        }
+        System.out.println("---------------------------------------------   ");
+        System.out.println();
+    }
+
 }

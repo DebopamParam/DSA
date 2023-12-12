@@ -5,33 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1388175-14d2-4c3e-904c-ddd3498cf000" name="Changes" comment="9/11/2023">
-      <change afterPath="$PROJECT_DIR$/src/BackTracking/Leetcode_410.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BackTracking/N_Knights.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BackTracking/N_Queens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BackTracking/N_Queens_Better.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oops/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oops/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oops/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oops/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oops/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oops/oops.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oops/src/Leacture1/Lecture1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oops/src/Lecture2/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oops/src/Lecture2/OuterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oops/src/Lecture2/Population.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oops/src/Lecture2/SingletonClass/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oops/src/Lecture2/SingletonClass/SingleTon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oops/src/Lecture2/StaticBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oops/src/Lecture3/Super/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oops/src/Lecture3/Super/GrandChild.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oops/src/Lecture3/Super/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oops/src/Lecture3/Super/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oops/src/Lecture3/static_in_Inheritance/Static_var_in_Inhertance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oops/src/Leetcode_410.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/Leetcode_46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/Leetcode_77.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/Sudoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops/src/deepCopy_shallowCopy/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops/src/deepCopy_shallowCopy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops/src/exception_handling/CustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops/src/exception_handling/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops/src/object_cloning/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops/src/object_cloning/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BackTracking/Maze_Obstacles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BackTracking/Maze_Obstacles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Searching/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Searching/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Searching/src/com/param/F_n_L.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Searching/src/com/param/F_n_L.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oops/src/custom_arraylist/GenericList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../oops/src/custom_arraylist/GenericList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,16 +42,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/debop/Desktop/VS code/Kunal Kushawaha DSA/code/Recursion&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "C:/Users/debop/Desktop/VS code/Kunal Kushawaha DSA/code/Recursion",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="BackTracking" />
@@ -151,6 +135,16 @@
           <url>file://$PROJECT_DIR$/src/BackTracking/N_Knights.java</url>
           <line>7</line>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BackTracking/Leetcode_77.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sub_Sets/SubSet.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

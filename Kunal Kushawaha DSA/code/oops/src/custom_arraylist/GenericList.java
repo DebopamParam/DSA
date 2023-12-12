@@ -11,7 +11,7 @@ public class GenericList<T> {
         if (size == list.length) {
             this.resize();
         } else {
-            list[size++] = item;
+            this.list[size++] = item;
         }
     }
 
@@ -27,7 +27,7 @@ public class GenericList<T> {
         for (int i = 0; i < this.size; i++) {
             temp[i] = list[i];
         }
-        list = temp;
+        this.list = temp;
     }
 
     @Override

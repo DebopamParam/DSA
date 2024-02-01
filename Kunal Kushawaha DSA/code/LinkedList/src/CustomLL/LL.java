@@ -113,6 +113,21 @@ public class LL {
             throw new RuntimeException(e);
         }
     }
+    public void insert_recursion(int val, int index)
+    {
+        head = helper(val,index,head);
+    }
+    private Node helper(int val, int index, Node node)
+    {
+        if(index == 0)
+        {
+            Node temp = new Node(val,node);
+            size++;
+            return temp;
+        }
+        node.next = helper(val,index-1,node.next);
+        return node;
+    }
 
     private class Node {
         int val;

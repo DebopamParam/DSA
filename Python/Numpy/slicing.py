@@ -21,4 +21,4 @@ arr2 = np.array(
 print(arr2[1, 2])  # same as arr2[1][2]
 print(arr2[:, :])  # 1st slice is for row & 2nd slice is for col
 print()
-print(arr2[2:4, ::2])
+print(arr2[2:4, ::-1])
